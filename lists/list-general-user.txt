@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# WindRockEmancipate/zapret-youtube 08cb9c1b7b9a
